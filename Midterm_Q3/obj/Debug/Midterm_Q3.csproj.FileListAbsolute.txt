@@ -1,0 +1,28 @@
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.exe.config
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.Form1.resources
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.Properties.Resources.resources
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csproj.GenerateResource.Cache
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.exe
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.pdb
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.exe
+C:\Users\Burak\Google Drive\Yazılım\C# Projects\OOP Ders\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.pdb
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.exe.config
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.exe
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.pdb
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csprojAssemblyReference.cache
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.Form1.resources
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.Properties.Resources.resources
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csproj.GenerateResource.cache
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csproj.CoreCompileInputs.cache
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.exe
+D:\DERSLER\BLG252E_2019\Midterms\040140011\Midterm\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.pdb
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.exe.config
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.exe
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\bin\Debug\Midterm_Q3.pdb
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csprojAssemblyReference.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.Form1.resources
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.Properties.Resources.resources
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.csproj.GenerateResource.cache
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.exe
+D:\disk_e\Wh u gonna do\Egitim\ITU\In Process\BLG 252 OOP\Exams\Midterm_Q3\Midterm_Q3\obj\Debug\Midterm_Q3.pdb
